@@ -5,8 +5,8 @@ public class Test {
         System.out.println("second tasks");
         System.out.println("Branch 125");
         System.out.println("change merge to dev after other branch upadted dev");
-        System.out.println("change to from dev to uat");
-        System.out.println("what happen");
+//        System.out.println("change to from dev to uat");
+//        System.out.println("what happen");
 
     }
 
